@@ -1,5 +1,11 @@
 <p align="center"><img src="assets/images/logo.png" alt="logo.png" height="150px"></p>
 <h1 align="center">Neebo</h1>
+<p align="center">
+  <a href="https://github.com/kimathi-phil/neebo/actions/workflows/ci.yaml"><img alt="CI Build Status" src="https://github.com/kimathi-phil/neebo/actions/workflows/ci.yaml/badge.svg"/></a>
+  <!-- <a href="https://codecov.io/gh/kimathi-phil/neebo"><img src="https://codecov.io/gh/kimathi-phil/neebo/branch/main/graph/badge.svg?token=rJxpkR1YTD"/></a> -->
+  <a href="https://github.com/kimathi-phil/neebo/blob/main/LICENSE"><img alt="LICENSE" src="https://img.shields.io/github/license/mashape/apistatus.svg"/></a>
+  <a href="https://flutter.dev/docs/development/tools/sdk/releases"><img alt="Flutter Version" src="https://img.shields.io/badge/Cargo-1.64.0-orange?logo=cargo"/></a>
+</p>
 <p align="center">A simple Discord bot written in Rust</p>
 
 ## Features
